@@ -20,6 +20,6 @@ public class Main {
        return a + b + c;
     }
     public static String result (){
-        return "szuruburu pyr pyr pyr";
+        return "szuruburu pyr pyr pyr pyr pyr";
     }
 }
